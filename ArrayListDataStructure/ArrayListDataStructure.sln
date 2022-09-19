@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListDataStructure", "ArrayListDataStructure\ArrayListDataStructure.csproj", "{8F66BA4C-95F5-4863-A877-6957C200B480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayListDS", "ArrayListDS\ArrayListDS.csproj", "{86AC614E-98FF-414A-847A-0D0976483620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F66BA4C-95F5-4863-A877-6957C200B480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F66BA4C-95F5-4863-A877-6957C200B480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F66BA4C-95F5-4863-A877-6957C200B480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F66BA4C-95F5-4863-A877-6957C200B480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86AC614E-98FF-414A-847A-0D0976483620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86AC614E-98FF-414A-847A-0D0976483620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86AC614E-98FF-414A-847A-0D0976483620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86AC614E-98FF-414A-847A-0D0976483620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
